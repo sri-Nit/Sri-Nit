@@ -1,6 +1,6 @@
 Hi there 👋
 
-I’m Srinidhi, a 2nd-year Computer Science student passionate about building and experimenting with technology. I enjoy creating **real-world applications** that combine frontend, backend, and AI technologies.
+I’m Srinidhi, a 3rd-year Computer Science student passionate about building and experimenting with technology. I enjoy creating **real-world applications** that combine frontend, backend, and AI technologies.
 
 Most of my projects lean toward **frontend development** using React, Vite, and Tailwind, but I’ve also worked extensively with **backend tools like Python and FastAPI**, and I have hands-on experience with **MCP servers and clients**. I recently completed a **website for my college club**, demonstrating my ability to deliver complete, functional projects from start to finish.
 
